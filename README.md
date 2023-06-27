@@ -1,1 +1,3 @@
-# project
+# React Calculator
+
+This calculator performs the basic mathematical calculations which is implemented using react.js .React's virtual DOM (Document Object Model) enables real-time calculations in the calculator app. As users input numerical values and perform operations, the app instantly updates the displayed result without requiring a full page refresh. React's efficient rendering mechanism minimizes the computational overhead, ensuring fast and seamless user interactions. The calculator app provides an excellent user experience by delivering instant feedback and responsiveness, making mathematical computations more efficient and enjoyable.
